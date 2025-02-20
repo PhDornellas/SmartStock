@@ -3,7 +3,7 @@
 
 
 # Nome da disciplina:
-Programação Orientada a Objeto - 2025.1
+Programação Orientada a Objetos - 2025.1
 
 # Nome da instituição:
 Cesar SCHOOL
