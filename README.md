@@ -4,7 +4,7 @@
 -  **Pedro Dornellas** (@PhDornellas)
 -  **Guilhermo Fernandes** (@GuilaFernandes)
 -  **Gabriel Prata** (@GabrielPrataa)
--  **Bruno Vilar** ()
+-  **Bruno Vilar** (@brunovgoe)
 -  **Caue Prado** ()
 -  **João Paulo Melo** (@Joaopaulomelo1
 
