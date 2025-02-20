@@ -6,7 +6,7 @@
 -  **Gabriel Prata** (@GabrielPrataa)
 -  **Bruno Vilar** (@brunovgoe)
 -  **Caue Prado** ()
--  **João Paulo Melo** (@Joaopaulomelo1
+-  **João Paulo Melo** (@Joaopaulomelo1)
 
 ##  Disciplina
  **Programação Orientada a Objetos - 2025.1**
