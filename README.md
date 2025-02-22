@@ -9,7 +9,7 @@
 -  **João Paulo Melo** (@Joaopaulomelo1)
 
 ##  Disciplina
- **Programação Orientada a Objetos - 2025.1**
+ **Programação Orientada a Objetos - 2025.1 e Projetos 3**
 
 ##  Instituição de Ensino
  **CESAR School**
