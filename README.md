@@ -5,7 +5,7 @@
 -  **Guilhermo Fernandes** (@GuilaFernandes)
 -  **Gabriel Prata** (@GabrielPrataa)
 -  **Bruno Vilar** (@brunovgoe)
--  **Cauê Prado** ()
+-  **Cauê Prado** (@CauePrad0)
 -  **João Paulo Melo** (@Joaopaulomelo1)
 
 ##  Disciplina
